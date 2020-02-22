@@ -1,4 +1,5 @@
 # student_grade_calculator.py
+### Class grades average calculator
+This program calculates grade letters, average scores (individual and class), highest / lowest scores, and class median score using Python.
 
-This is my class grades average calculator
-It calculates grade letters, average scores (individual and class), highest / lowest scores, and class median score using Python.
+![calculator](/pic.jpg)
